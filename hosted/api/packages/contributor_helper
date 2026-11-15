@@ -1,15 +1,15 @@
 {
   "latest": {
-    "archive_sha256": "181b255222bba388f31ce11b4cbcb953840136c37e29c517dd5c80658b9ff1b0",
-    "archive_url": "https://raw.githubusercontent.com/arnodorian1337/flutter-hosted-package-20261115-093651-d34d106e/b713dff8cf3a7d7801658dfbe50e4770f837e537/hosted/archives/contributor_helper-1.0.0.tar.gz",
+    "archive_sha256": "479ea0abe8b22644b5a15f037ad6d568ca357f74c682207c013daf0c128b83fd",
+    "archive_url": "https://raw.githubusercontent.com/arnodorian1337/flutter-hosted-package-20261115-093651-d34d106e/4033a7be7e5fdc0452f7bbb36d11296eef89880c/hosted/archives/contributor_helper-1.1.0.tar.gz",
     "pubspec": {
       "environment": {
         "sdk": "^3.8.0"
       },
       "name": "contributor_helper",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "name": "contributor_helper",
   "versions": [
@@ -24,6 +24,18 @@
         "version": "1.0.0"
       },
       "version": "1.0.0"
+    },
+    {
+      "archive_sha256": "479ea0abe8b22644b5a15f037ad6d568ca357f74c682207c013daf0c128b83fd",
+      "archive_url": "https://raw.githubusercontent.com/arnodorian1337/flutter-hosted-package-20261115-093651-d34d106e/4033a7be7e5fdc0452f7bbb36d11296eef89880c/hosted/archives/contributor_helper-1.1.0.tar.gz",
+      "pubspec": {
+        "environment": {
+          "sdk": "^3.8.0"
+        },
+        "name": "contributor_helper",
+        "version": "1.1.0"
+      },
+      "version": "1.1.0"
     }
   ]
 }
